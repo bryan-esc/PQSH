@@ -1,0 +1,3 @@
+# PQSH
+
+PQSH is an operative system scheduler originally designed as a project for my Operating Systems course. Its main purpose is to create a multiqueue scheduler with the capability of employing different scheduling policies such as round robin and FIFO (first in first out), multi-core concurrency and measuring different scheudling metrics such as average turnaroudn and response time. This project was extremely useful to comprehending the true nature of operating systems. 
